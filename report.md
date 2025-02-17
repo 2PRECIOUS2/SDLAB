@@ -1,0 +1,1 @@
+In this assignment. I initialized a Git repository and created files named student-info.txt, report.md and index.html I created a branch named feature/student-details. I made at least 2 commits and deployed the index.html file to Github Pages.
